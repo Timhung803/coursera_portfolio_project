@@ -15,3 +15,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.css-7p9xsp > option,
+.css-7p9xsp > optgroup {
+  color: #512da8;
+}
