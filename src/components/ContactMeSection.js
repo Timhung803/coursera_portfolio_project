@@ -47,7 +47,7 @@ const LandingSection = () => {
         formik.resetForm();
       }
     }
-  });
+  }, [response]);
 
   return (
     <FullScreenSection
